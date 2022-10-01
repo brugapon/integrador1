@@ -1,0 +1,102 @@
+* {
+    background-color: #212429;
+}
+
+/* no logro que el carrousel no tenga color
+#carrouselpeliculas {
+    background-color: none;
+}
+*/
+
+.header {
+    /*no me se ve la imageeen*/
+    background-image: url(./imagenes/header.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+}
+
+.navbar {
+    /* no logro centrar la navbar */
+    align-items: center;
+    justify-content: space-between;
+
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#inicio {
+color: #339999;
+}
+
+.cardpabellon, .cardcuerpos {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+
+
+.h1, h2, h4, p {
+    color: #afb2b7;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.h1, h2, h4, p {
+    text-transform: uppercase;
+}
+
+.carrouselp {
+    padding: 20px;
+    background-color: none;
+}
+
+.boton {
+    text-align: center;
+}
+
+.boton a{
+    text-align: center;
+    width: 150px;
+    height: 60px;
+    border-radius: 100px;
+    display: inline-block;
+    background-color: #339999;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+#email, #cuerpoformulario {
+    color: #afb2b7;
+}
+
+.redes-container{
+    padding-left: 30px;
+}
+
+.redes{
+    width: 208px;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.redes a {
+    border: 2px solid white;
+    text-decoration: none;
+    color: white;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    padding-top: 13px;
+    padding-left: 2px;
+}
+
+
+
+
+
+
+
