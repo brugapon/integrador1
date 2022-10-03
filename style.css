@@ -1,3 +1,4 @@
+
 * {
     background-color: #212429;
 }
@@ -7,6 +8,7 @@
     background-color: none;
 }
 */
+
 
 .header {
     /*no me se ve la imageeen*/
@@ -66,7 +68,10 @@ color: #339999;
     color: white;
     font-size: 25px;
     padding-top: 10px;
+    outline-color: #212429;
 }
+
+.
 
 #email, #cuerpoformulario {
     color: #afb2b7;
